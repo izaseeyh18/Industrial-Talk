@@ -13,7 +13,7 @@ This repository contains a collection of presentation slides in PDF format, cove
 - **Description:** A brief overview. Example: *Insights into cloud computing and infrastructure-as-a-service models.*
 
 ### 3. 📗 `Presentation 3: [Surviving the IT Burnout]`
-- **Filename:** [`presentation3.pdf`](./presentation3.pdf)
+- **Filename:** [`Surviving the IT Burnout – gp4.png`](./Surviving the IT Burnout – gp4.png)
 - **Description:** Brief description. Example: *Discussing best practices for secure software development.*
 
 ---

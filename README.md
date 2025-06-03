@@ -18,26 +18,3 @@ This repository contains a collection of presentation **slides (image format)** 
 
 ---
 
-## 🧾 Usage
-
-Click on the filenames above to view or download each presentation image.
-
-> Tip: For PDF versions, consider uploading `.pdf` files and updating the links accordingly.
-
----
-
-## 🛠️ How to Contribute
-
-Feel free to fork this repository and open a pull request if you’d like to:
-- Add new presentation slides
-- Improve formatting or descriptions
-
----
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE), unless stated otherwise in the presentations.
-
----
-
-> Created with ❤️ by Group 4 for learning and sharing knowledge.
